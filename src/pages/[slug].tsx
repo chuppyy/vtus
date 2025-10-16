@@ -207,11 +207,11 @@ export async function getStaticProps({ params }: { params: any }) {
     const parameters = {
       videoScriptSrc: "https://nexvelar.digital/ads/nthotnews_boonovel_com.eb373146-0084-4675-83c9-23556caad088.video.js",
       //Code auto 
-      googleClientId: "ca-pub-2388584177550957",
+      googleClientId: "ca-pub-7472198107183412",
       //GA tiêu đề
-      googleClientSlotId:"4209555703",
+      googleClientSlotId:"5047700783",
       //GA sau video
-      googleAdSlot: "2509461220",
+      googleAdSlot: "9577972735",
 //Cái sau
       mgWidgetId1: "1836906",
       //Cái trước
