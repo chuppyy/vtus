@@ -209,9 +209,9 @@ export async function getStaticProps({ params }: { params: any }) {
       //Code auto 
       googleClientId: "ca-pub-7472198107183412",
       //GA tiêu đề
-      googleClientSlotId:"5047700783",
+      googleClientSlotId:"2938512032",
       //GA sau video
-      googleAdSlot: "9577972735",
+      googleAdSlot: "3245633791",
 //Cái sau
       mgWidgetId1: "1836906",
       //Cái trước
